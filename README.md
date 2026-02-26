@@ -2,5 +2,5 @@
 
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/rigopz/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.deno.dev/:rigopz:/count.svg" alt="Key:: Visitor's Count" />
 </div>
