@@ -2,7 +2,7 @@
 
 <br>
 <h1 align="center">
-    <a href="javascript:void(0)">
+    <a>
       <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=700&height=70&color=4493F8&duration=3000&pause=2000&lines=Hi+There!+👋;I'm+Yasoman!;Welcome+to+my+GitHub+Profile." />
     </a>
 </h1>
